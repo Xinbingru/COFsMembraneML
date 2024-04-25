@@ -1,5 +1,5 @@
 # COFsMembraneML
-A machine learning implementation of an interpretable model for membrane separation performance prediction of COFs materials.If the code or molecular simulation data of this work is helpful to you，please do not hesitate to cite this paper: ["Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation"](https://doi.org/10.1021/acs.iecr.4c00855).
+A machine learning implementation of an interpretable model for membrane separation performance prediction of COFs materials.If the code or molecular simulation data of this work is helpful to you，please do not hesitate to cite this paper:  ["Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation"](https://doi.org/10.1021/acs.iecr.4c00855).
 
 ![COFsMembraneML](image/COFsMembraneML.png)
 
